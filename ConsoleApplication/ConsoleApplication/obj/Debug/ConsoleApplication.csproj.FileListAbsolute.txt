@@ -1,0 +1,7 @@
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
