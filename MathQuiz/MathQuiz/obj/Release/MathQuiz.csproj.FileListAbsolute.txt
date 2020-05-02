@@ -1,0 +1,15 @@
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\obj\Release\MathQuiz.csprojAssemblyReference.cache
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\bin\Release\MathQuiz.exe.config
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\bin\Release\MathQuiz.exe.manifest
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\bin\Release\MathQuiz.application
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\bin\Release\MathQuiz.exe
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\bin\Release\MathQuiz.pdb
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\obj\Release\MathQuiz.MathQuiz.resources
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\obj\Release\MathQuiz.Properties.Resources.resources
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\obj\Release\MathQuiz.csproj.GenerateResource.cache
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\obj\Release\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\obj\Release\MathQuiz.TrustInfo.xml
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\obj\Release\MathQuiz.exe.manifest
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\obj\Release\MathQuiz.application
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\obj\Release\MathQuiz.exe
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\obj\Release\MathQuiz.pdb

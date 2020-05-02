@@ -1,0 +1,26 @@
+C:\Users\leahb\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\leahb\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\leahb\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\leahb\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\leahb\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.MathQuiz.resources
+C:\Users\leahb\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\leahb\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\leahb\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\leahb\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\leahb\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\leahb\vs c#\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\leahb\vs c#\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\leahb\vs c#\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\leahb\vs c#\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\leahb\vs c#\MathQuiz\MathQuiz\obj\Debug\MathQuiz.MathQuiz.resources
+C:\Users\leahb\vs c#\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\leahb\vs c#\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\leahb\vs c#\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\leahb\vs c#\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\leahb\vs c#\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\rudieadr\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\rudieadr\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\rudieadr\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\rudieadr\source\repos\CIT365-S2020-RudieAmanda\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
